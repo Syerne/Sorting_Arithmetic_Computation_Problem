@@ -7,3 +7,4 @@ read -p "enter the value for c: " c
 
 A=$(( $a + $b * $c ))
 B=$(( $a * $b + $c ))
+C=$(( $a + $b / $c ))
